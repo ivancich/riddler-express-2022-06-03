@@ -1,3 +1,12 @@
+/*
+ * Solution to Express puzzle at:
+ *     https://fivethirtyeight.com/features/can-you-escape-the-desert/
+ *
+ * By J. Eric Ivancich
+ *
+ * See file "License" for license.
+ */
+
 #include <iostream>
 #include <vector>
 #include <list>
